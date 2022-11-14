@@ -9,11 +9,20 @@ html{
 }
 body{
   background-image: url(../public/images/bg-main-desktop.png);
-  background-size: cover;
-  background-position: top;
-  /* padding: 4.5% 12% 0 12%; */
+  background-size: auto;
+  background-position:top right;
+  padding-left: 4%;
   font-family: 'IBM Plex Sans', sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
+.app{
+}
+
+
+@media (min-width:1008px) {
+  body{
+    padding-left: 9.5%;
+  }
+}
 

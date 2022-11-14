@@ -1,0 +1,57 @@
+.main--container{
+    display: flex;
+    justify-content: center;
+    margin-top: 35.5rem;
+}
+
+.main--bg{
+    width:100%;
+    height: 60rem;
+    background: black;
+    border-radius: 1.2rem;
+    background-image: url(../../../public/images/bg-pattern-2.svg);
+    background-repeat:  no-repeat;
+    background-size: 31.2rem;
+    background-position: 43% -4rem;
+}
+
+ .main--phone{
+    width: 36.9rem;
+    margin-left: 9.3%;
+    margin-top: -19%;
+}
+
+/* .main--card{
+    background: #FA7453;
+    width: 40%;
+    height: 104%;
+    margin-bottom: -50%;
+    border-radius: 1.2rem;
+    padding-left: 5%;
+    padding-top: 5%;
+    color: #FCFAF9;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.main--card h1{
+    font-size: 4.0rem;
+    font-weight: 700;
+    line-height: 5.2rem;
+    text-align: left;
+}
+
+.main--card h2{
+    font-size: 2.0rem;
+    font-weight: 400;
+    line-height: 3.4rem;
+    text-align: left;
+    margin-top: 4%;
+} */
+
+
+/* @media (max-width: 1000px) {
+    .main--bg{
+        width: 90%;
+    }
+} */
